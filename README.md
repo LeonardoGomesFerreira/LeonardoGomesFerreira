@@ -1,100 +1,89 @@
-<h1 align="center">Olá 👋, eu sou Leonardo Gomes Ferreira</h1>
+<h1 align="center">👋 Olá, eu sou Leonardo Gomes Ferreira</h1>
 
-<h3 align="center">💻 Desenvolvedor em evolução | Java • Spring Boot • Flutter • Front-end • Back-end</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/GRSnxyhJnPsaQy9YLn/giphy.gif" width="260" alt="Son Goku" />
-</p>
+<h3 align="center">
+💻 Desenvolvedor Full Stack em evolução | Java • Spring Boot • Flutter
+</h3>
 
 <p align="center">
-  🚀 Estudando programação avançada, APIs REST, arquitetura de software e desenvolvimento full stack.
+  <img src="https://media.giphy.com/media/GRSnxyhJnPsaQy9YLn/giphy.gif" width="250"/>
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 🚀 Sobre mim
 
-- 🎓 Estudante e entusiasta de tecnologia
-- 🌱 Atualmente estudando **Java, Spring Boot, Flutter, APIs REST e arquitetura de software**
-- 🔥 Buscando evoluir cada vez mais no **Back-end e Full Stack**
-- 📚 Sempre criando projetos para praticar lógica, boas práticas e estrutura de código
+💡 Desenvolvedor focado em construção de aplicações modernas, escaláveis e bem estruturadas.
+
+- 🎓 Estudante de tecnologia
+- 🔥 Foco em Back-end com Java + Spring Boot
+- 📱 Experiência com Flutter (mobile)
+- 🌐 Conhecimento em Front-end moderno
+- 🧠 Estudando arquitetura de software e boas práticas
 
 ---
 
-## 🌐 Conecte-se comigo
+## 🧠 Tech Stack
 
-<p align="left">
-  <a href="https://github.com/LeonardoGomesFerreira" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,flutter,dart,js,ts,react,nodejs,html,css,mysql,postgres,git" />
+</p>
+
+---
+
+## 💼 Projetos em destaque
+
+🔹 **API REST com Spring Boot**
+- CRUD completo
+- Autenticação JWT
+- Arquitetura em camadas
+
+🔹 **App Mobile com Flutter**
+- Interface moderna
+- Integração com API
+
+🔹 **Sistema Full Stack**
+- Front-end + Back-end + Banco
+- Deploy completo
+
+👉 (Crie repositórios separados e fixe eles no perfil)
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=LeonardoGomesFerreira&show_icons=true&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoGomesFerreira&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 📈 Atividade
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeonardoGomesFerreira&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🏆 Conquistas
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LeonardoGomesFerreira&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌐 Contato
+
+<p align="center">
   <a href="mailto:ferreiragomesleo26@gmail.com">
-    <img src="https://img.shields.io/badge/Email-contato-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-contato-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🎯 Objetivo
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoGomesFerreira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoGomesFerreira&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 Troféus
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LeonardoGomesFerreira&theme=tokyonight&row=1&column=6" />
-</p>
-
----
-
-## 📈 Gráfico de atividade
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeonardoGomesFerreira&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🛠️ Tecnologias e linguagens
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,vue,vite,java,js,ts,react,flutter,dart,nodejs,mysql,postgres,git,github" />
-</p>
-
-> Observação: não existe um ícone genérico “SQL” no skillicons, então o ideal é representar SQL com **MySQL** e **PostgreSQL**, que já cobrem bem essa parte.
-
----
-
-## 🧠 Linguagens dominantes
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoGomesFerreira&layout=donut&theme=tokyonight" />
-</p>
-
----
-
-## 🐍 Snake dos commits
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/LeonardoGomesFerreira/LeonardoGomesFerreira/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
-## 👀 Visitas no perfil
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LeonardoGomesFerreira&label=Visualiza%C3%A7%C3%B5es&color=0e75b6&style=for-the-badge" />
-</p>
-
----
-
-## 🚀 Objetivo
-
-<p align="center">
-  Transformando estudo em projetos, projetos em experiência, e experiência em evolução constante.
-</p>
+🚀 Me tornar um desenvolvedor Full Stack de alto nível, construindo sistemas escaláveis e profissionais.
